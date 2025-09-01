@@ -1,7 +1,11 @@
-## Hello there 👋
+Hello there! I'm Jesus. 👋
 
-I'm Jesus Lemus, a Platform Engineer. I enjoy building the foundational infrastructure that empowers software development teams by creating internal developer platforms (IDPs), CI/CD frameworks, and overall, a great developer experience (DevEx).
+I'm a platform engineer from Colombia.
 
-Throughout my career, I have designed and implemented core CI/CD frameworks that power the mobile applications and data pipelines for some of the world's most recognized brands, directly impacting how millions of users receive content. My work also includes architecting infrastructure for major companies. I actively contribute to enhancing engineering workflows, developing automated solutions and integrations that boost developer velocity and reliability across large technical organizations.
+I've built foundational infrastructure that empowers software development teams by:
+- Reducing long pipeline waiting hours.
+- Less infrastructure headaches so devs can focus on what they do best.
+- Pro-active alerting (Less Late On-call shifts for developers)
+- End-to-End CICD standards for entire organizations.
 
-My goal is to bridge the gap between infrastructure and development, building resilient platforms and tools that empower engineering teams to innovate and deliver value with speed and confidence.
+I'm now working as contractor platform engineer, while trying to build new open source tools for the community.
