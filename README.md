@@ -8,4 +8,4 @@ I've built foundational infrastructure that empowers software development teams 
 - Pro-active alerting (Less Late On-call shifts for developers)
 - End-to-End CICD standards for entire organizations.
 
-I'm now working as contractor platform engineer, while trying to build new open source tools for the community.
+I'm now working as contractor platform engineer.
