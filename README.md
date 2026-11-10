@@ -7,5 +7,3 @@ I've built foundational infrastructure that empowers software development teams 
 - Less infrastructure headaches so devs can focus on what they do best.
 - Pro-active alerting (Less Late On-call shifts for developers)
 - End-to-End CICD standards for entire organizations.
-
-I'm now working as contractor platform engineer.
